@@ -99,9 +99,9 @@
       font-family: $statedecoded-stack3;
       font-size: 150%;
       font-weight: 100;
-      letter-spacing: 0.75em;
+      //letter-spacing: 0.75em;
       margin: 10px 0 0 5px ; // Override system-wide typography
-      text-transform: uppercase;
+      //text-transform: uppercase;
 
       @include respond-to(smartphone) {
         font-size: 125%;
@@ -111,7 +111,7 @@
       @include respond-to(tablet) {
         font-size: 120%;
         font-weight: 400;
-        letter-spacing: 0.7em;
+        //letter-spacing: 0.7em;
         margin: 0;
       }
 
@@ -305,8 +305,8 @@
         h2 {
           font-size: 12px;
           font-weight: 400;
-          letter-spacing: 0.5em;
-          margin: -5px 0 0 120px;
+          //letter-spacing: 0.5em;
+          margin: -3px 0 0 60px;
         }
       } // #place_logo
 

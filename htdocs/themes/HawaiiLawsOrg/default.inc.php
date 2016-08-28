@@ -30,7 +30,7 @@
 			<a href="/" class="noprint">
 				<div id="place_logo">
 					<h1>{{place_name}}</h1>
-					<h2>Decoded</h2>
+					<h2>Revised Statutes</h2>
 				</div>
 			</a>
 			<section id="search-form" class="search">
@@ -56,7 +56,7 @@
 						<a href="/browse/" id="browse">Browse</a>
 					</li>
 					<li>
-						<a href="/about/" id="about">About Us</a>
+						<a href="/about/" id="about">About</a>
 					</li>
 					<li>
 						<a href="/downloads/" id="downloads">Downloads</a>
@@ -97,14 +97,13 @@
 				<p class="legalese">
 					All user-contributed content is owned by its authors. The laws are owned by the
 					people and, consequently, are not governed by copyright—so do whatever you want
-					with them. This website does not constitute legal advice. Only a lawyer can
+					with them.<br>This website does not constitute legal advice. Only a lawyer can
 					provide legal advice. While every effort is made to keep all information
 					up-to-date and accurate, no guarantee is made as to its accuracy.
 				</p>
 				<p class="credits">
-					Powered by <a href="http://www.statedecoded.com/">The State Decoded</a><br />
-					Copyright 2011–2013 <a href="http://waldo.jaquith.org/">Waldo Jaquith</a><br />
-					Design by <a href="http://www.meticulous.com">Meticulous</a>
+				        <a href="http://codeforhawaii.org/"><img alt="Code for Hawaii" src="/images/cfh-logo.svg"></a><br><br>
+					Powered by <a href="http://www.statedecoded.com/">The State Decoded</a> / Copyright 2011–2013 <a href="http://waldo.jaquith.org/">Waldo Jaquith</a> / Design by <a href="http://www.meticulous.com">Meticulous</a>
 				</p>
 			</div> <!-- // .nest -->
 		</footer> <!-- // #page_footer -->

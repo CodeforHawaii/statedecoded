@@ -7,10 +7,11 @@
 // ------------------------------------------------------------------
 
 // The fonts available from TypeKit are Adobe Jenson Pro, FF Meta Serif Web Pro, and Proxima Nova
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
-$statedecoded-stack1: "adobe-jenson-pro", Georgia, "Times New Roman", Times, serif;
-$statedecoded-stack2: "ff-meta-serif-web-pro", Georgia, "Times New Roman", Times, serif;
-$statedecoded-stack3: "proxima-nova", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$statedecoded-stack1: Ubuntu, "adobe-jenson-pro", Georgia, "Times New Roman", Times, serif;
+$statedecoded-stack2: Ubuntu, "ff-meta-serif-web-pro", Georgia, "Times New Roman", Times, serif;
+$statedecoded-stack3: Ubuntu, "proxima-nova", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 $body-stack: $statedecoded-stack2;
 $legal-stack: Georgia, "Times New Roman", Times, serif;

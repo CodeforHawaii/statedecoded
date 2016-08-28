@@ -14,9 +14,9 @@
  *
  */
 
-class StateDecoded2013__Page extends Page
+class HawaiiLawsOrg__Page extends Page
 {
-	public $theme_name = 'StateDecoded2013';
+	public $theme_name = 'HawaiiLawsOrg';
 
 	public $assets = array(
 		'font_awesome_css' => array(

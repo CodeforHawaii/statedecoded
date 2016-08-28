@@ -10,6 +10,15 @@ $base-light: adjust-color($base, $saturation: -20%, $lightness: 10%);
 $base-lightest: #8fa9b2;
 $base-dark:  adjust-color(adjust-hue($base, 4deg), $saturation: -1%, $lightness: -7%);
 $base-darkest: #526166;
+
+$base:  #312e33;
+$base-light: adjust-color($base, $saturation: -20%, $lightness: 10%);
+$base-lightest: #e5dcda;
+$base-dark:  adjust-color(adjust-hue($base, 4deg), $saturation: -1%, $lightness: -7%);
+$base-darkest: #312e33;
+// Secondary Palette
+
+
 // Secondary Palette
 // ------------------------------------------------------------------
 
@@ -22,7 +31,7 @@ $base-darkest: #526166;
 
 $yellow: #fff200;
 $black: #000;
-$white: #fff;
+$white: #f9f6f4;
   $white-off: #d9d8d6;
 
 
