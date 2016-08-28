@@ -241,7 +241,7 @@ $body .= '<section id="rep_variant">
 				<ul>';
 foreach ($law->formats as $type => $url)
 {
-	$body .= '<li><a href="' . $url . '"><img src="/themes/StateDecoded2013/static/images/icon_'
+	$body .= '<li><a href="' . $url . '"><img src="' . THEME_WEB_PATH . 'static/images/icon_'
 		. $type . '_32.png" alt="' . $formats[$type] . '"></a></li>';
 }
 $body .= '
