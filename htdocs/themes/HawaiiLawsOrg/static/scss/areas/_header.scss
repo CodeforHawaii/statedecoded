@@ -24,10 +24,10 @@
   }
 
   #place_logo {
-    @include background-image(image-url("faux_seal.png"));
+    @include background-image(image-url("hawaiilaws.svg"));
     background-repeat: no-repeat;
     background-position: top left;
-    background-size: auto;
+    background-size: 115px;
     color: $white;
     -webkit-font-smoothing: antialiased;
     font-smoothing: antialiased;

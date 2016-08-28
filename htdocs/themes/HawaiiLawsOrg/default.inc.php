@@ -102,7 +102,7 @@
 					up-to-date and accurate, no guarantee is made as to its accuracy.
 				</p>
 				<p class="credits">
-				        <a href="http://codeforhawaii.org/"><img alt="Code for Hawaii" src="/images/cfh-logo.svg"></a><br><br>
+				        <a href="http://codeforhawaii.org/"><img alt="Code for Hawaii" src="/themes/HawaiiLawsOrg/static/images/cfh-logo-lite.svg"></a><br><br>
 					Powered by <a href="http://www.statedecoded.com/">The State Decoded</a> / Copyright 2011–2013 <a href="http://waldo.jaquith.org/">Waldo Jaquith</a> / Design by <a href="http://www.meticulous.com">Meticulous</a>
 				</p>
 			</div> <!-- // .nest -->

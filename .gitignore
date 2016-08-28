@@ -6,7 +6,7 @@ htdocs/admin/xml/
 htdocs/admin/import-data/
 includes/class.Virginia.inc.php
 includes/config.inc.php
-htdocs/.sass-cache/
+.sass-cache/
 package.box
 .settings
 .project

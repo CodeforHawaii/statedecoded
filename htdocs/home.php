@@ -54,7 +54,7 @@ $content->set('body',
 				right now.</p>
 
 				<p>This site is powered by <a href="http://www.statedecoded.com/">The State
-				Decoded</a>.</p>
+				Decoded</a> and maintained by&nbsp;&nbsp;<a href="http://codeforhawaii.org"><img src="/themes/HawaiiLawsOrg/static/images/cfh-logo-dark.svg"></a></p>
 
 			</section> <!-- // .feature -->
 
